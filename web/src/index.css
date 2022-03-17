@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.video-react-controls-enabled {
+  padding-top: 30% !important;
+}
