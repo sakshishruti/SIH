@@ -1,1 +1,1 @@
-# Vehicle-Number-Recognition-SRM-SIH-2022
+# Automatic-Vehicle-Number-Recognition-SRM-SIH-2022
