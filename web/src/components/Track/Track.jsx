@@ -23,7 +23,7 @@ export default function Track() {
           3: "65",
           4: "121",
         };
-        const response = await axios.get(`http://ca40-34-71-139-158.ngrok.io/predict?tes=${numbers[carId]}`);
+        const response = await axios.get(`http://43ad-34-133-44-14.ngrok.io/predict?tes=${numbers[carId]}`);
         setVehicleNo(response.data.split("'")[1]);
         setLoading(false);
       } catch (err) {}
