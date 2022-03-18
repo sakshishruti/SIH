@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vehicle-Number-Recognition-SRM-SIH-2022
 
 ## Submission by Sharks for SIH-2022(SRMIST)
