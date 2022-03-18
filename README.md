@@ -1,4 +1,5 @@
-# Vehicle-Number-Recognition-SRM-SIH-2022
+<<<<<<< HEAD
+# Automatic-Vehicle-Number-Recognition-SRM-SIH-2022
 
 ## Submission by Sharks for SIH-2022(SRMIST)
 Entry of Sharks, to SRM Institute of Science and Technology, Kattankulathur.
@@ -156,3 +157,6 @@ Sakshi Shruti
 
 
 
+=======
+# Automatic-Vehicle-Number-Recognition-SRM-SIH-2022
+>>>>>>> c7c7fa35678171a00c7618f016f59edb5c7f4aa4
