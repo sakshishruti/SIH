@@ -1,7 +1,7 @@
 # Vehicle-Number-Recognition-SRM-SIH-2022
 
-## Submission by Sharks for SIH-2022(SRMIST)
-Entry of Sharks, to SRM Institute of Science and Technology, Kattankulathur.
+## Submission by Sharks for Internal SIH-2022(SRMIST)
+Entry of Sharks, to Internal Hackathon at SRM Institute of Science and Technology, Kattankulathur.
 
 ## Problem Statement: 
 
