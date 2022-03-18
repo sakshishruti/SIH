@@ -8,9 +8,9 @@ import SignIn from "./components/Auth";
 import Home from "./components/Home";
 import Snackbar from "./components/Reusable/Snackbar";
 import Navbar from "./components/Home/Navbar";
-import AnimatedComponent from "./components/Reusable/AnimatedComponent";
 import Contact from "./components/Contact";
 import Track from "./components/Track";
+import TrackCar from "./components/Track/Track";
 
 export const AppContext = createContext(null);
 
@@ -52,8 +52,8 @@ export default function App() {
             }
           >
             <Route path="/" element={<Track />} />
-
             <Route path="contact" element={<Contact />} />
+            <Route path="track" element={<TrackCar />} />
           </Route>
         </Routes>
       </AnimatePresence>
